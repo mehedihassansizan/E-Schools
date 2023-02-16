@@ -1,0 +1,182 @@
+.first-thing{
+    width: 1440px;
+    height: 576px;
+    background-color: #F0FFF0;
+    margin-bottom: 50px;
+}
+.step-1{
+    padding-top: 30px;
+}
+.step-1 a{
+    font-family: sans-serif;
+    font-weight: 400;
+}
+.nav-item{
+    padding-left: 15px;
+}
+.step-1 button{
+    background-color: #21B573;
+    border: none;
+    padding: 10px 30px;
+    border-radius: 20px;
+    color: white;
+}
+.button{
+    padding-left: 10px;
+}
+.e-schools{
+    margin-top: 60px;
+    padding-left: 20px;
+}
+.Illustration{
+    width: 554px;
+    height: 346px;
+}
+.span1{
+    color: #FD511A;
+}
+.span2{
+    color: #21B573;
+}
+.small-alo p{
+    color: gray;
+}
+.small-alo{
+    margin: 50px 150px;
+}
+.small-alo h3{
+    color: #413960;
+}
+.alo{
+    width: 270px;
+    height: 270px;
+    border: white solid;
+    border-radius: 10px;
+    box-shadow: 5px 5px 20px gray;
+    background-color: #F8FFFB;
+}
+.alo img{
+    width: 66px;
+    height: 85px;
+}
+.online-course img{
+    width: auto;
+    height: auto;
+}
+.online-course{
+    margin-top: 50px;
+}
+.part-2{
+    margin-left:100px ;
+}
+.part-2 img{
+    width: 66px;
+    height: 85px;
+}
+.part-2 div{
+    height: 270px;
+    width: 270px;
+    background-color: #F8FFFB;
+    border: solid white;
+    border-radius: 10px;
+    float: left;
+    margin-left: 16px;
+    text-align: center;
+    padding-top: 50px;
+}
+.step-3{
+    margin-top: 60px;
+    margin-left: 100px;
+}
+.step-3 img{
+    width: 331px;
+    height: 234px;
+    padding-left: 30px;
+    padding-top: 20px;
+}
+.card{
+    width: 370px;
+    height: 483px;
+    border: gray;
+    box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 18px;
+    
+}
+.step-3 button{
+    padding:8px 28px;
+    border: solid white;
+    border-radius: 33px;
+    background-color: #21B573;;
+
+}
+.step-3 .card-body{
+    padding-left: 30px;
+    
+}
+.step-3 p{
+    color: #585859;
+}
+.step-3 .card-body h3{
+    color: #413960;
+}
+.step-3 .card-footer{
+    border: none;
+    padding-left: 30px;
+    background-color: white;
+    padding-right: 45px;
+}
+.step-3 .card-footer small{
+    color: #585859;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+.step-3 .card-footer div{
+    text-align: right;
+}
+.step-4{
+    margin-top: 60px;
+}
+.step-4 img{
+    width: 120px;
+    height: 120px;
+}
+.testomonial{
+    padding-top: 80px;
+}
+.tt-1{
+    padding-left: 40px;
+    font-family: sans-serif;
+    font-size: 16px;
+    font-weight: 400px;
+    line-height: 30px;
+    letter-spacing: 0em;
+}
+.web-footer {
+    background-color: #282531;
+    width: 1440px;
+    height: 369px;
+    margin-top: 80px;
+    padding-top: 40px;
+}
+.web-footer a:link{
+    text-decoration: none;
+    color: #FFFFFF;
+    text-align: left;
+    font-family: sans-serif;
+}
+.lekha{
+    margin-left: 100px;
+}
+.web-footer .row{
+    padding-left: 50px;
+}
+.matha-nosto{
+    margin-top: 90px;
+    color: #F0FFF0;
+    padding-left: 50px;
+}
